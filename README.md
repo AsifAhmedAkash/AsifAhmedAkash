@@ -2,16 +2,15 @@
 
 ### 🎮 Game Developer | 🤖 AI Researcher | 🌐 Aspiring Web Developer
 
-I am the founder of **Dicester Studio** and a BUET graduate with a passion for blending immersive experiences with artificial intelligence. From developing commercial mobile games to researching neural networks for VR, I thrive at the intersection of creativity and logic.
+I am the founder of **Dicester Studio** and a BUET graduate with a passion for blending immersive experiences with artificial intelligence. From developing commercial mobile games to researching neural networks for VR.
 
 ---
 
-### 🚀 Quick Stats
-- 🛠 **Currently working on:** [OUTGUNNED - Behind Enemy Lines](https://www.dicesterstudio.com/)
-- 📚 **Learning:** React, Tailwind CSS, and Java (Modern Web Stack)
-- 🧠 **Research Focus:** Color Harmonization in VR using Deep Neural Networks
-- 🌍 **Language:** English (IELTS Band 7.0)
-- 🎓 **Education:** B.Sc in Urban & Regional Planning, BUET
+### 🚀 Ongoing Project: OUTGUNNED - Behind Enemy Lines
+![ezgif-44dcab243592e130](https://github.com/user-attachments/assets/d510e690-fc5f-463f-92ff-0a10f6efa6a3)
+
+
+*A high-octane tactical experience currently in active development.*
 
 ---
 
@@ -43,15 +42,20 @@ I am the founder of **Dicester Studio** and a BUET graduate with a passion for b
 | **[Zone Sentinels](https://www.dicesterstudio.com/zone-sentinels-return-to-docking-zone/)** | Vertical space mining exploration. | Web/Mobile |
 | **[Bounce & Spikes Curse](https://play.google.com/store/apps/details?id=com.DicesterStudio.BounceandSpikesCurse)** | Challenging 2D platformer. | Google Play |
 | **[Ski Trails](https://play.google.com/store/apps/details?id=com.dicesterstudio.skitrailsdemov1)** | Relaxing hyper-casual skiing. | Google Play |
-| **[Multiplayer Relay Rush](https://github.com/AsifAhmedAkash/Multiplayer_Relay_Rush)** | Unity Multiplayer/Relay system. | GitHub |
 
 ---
 
 ### 🔬 Research & Experience
 
-- **Color Harmonization for Immersive VR:** Using Deep Neural Networks to improve color quality and visual consistency in Virtual Reality environments.
+- **Color Harmonization for Immersive VR:** Neural-network system predicting harmonized colors for virtual objects to match environments (Unity/Python).
 - **Former VR & App Developer** at Tokyo Gogaku Gakko (Japan).
 - **VR Instructor** at Bangladesh Digital University.
+
+---
+
+### 🖼 Game Portfolio
+![game projects](https://github.com/user-attachments/assets/1a0a8c24-a3e0-4c37-bcc3-f6fad195ec82)
+
 
 ---
 
@@ -62,6 +66,3 @@ I am the founder of **Dicester Studio** and a BUET graduate with a passion for b
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:asifahmedakash32@gmail.com)
 
 ---
-
-### 📊 GitHub Stats
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsifAhmedAkash&show_icons=true&theme=tokyonight)
