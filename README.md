@@ -30,9 +30,9 @@ I am the founder of **Dicester Studio** and a BUET graduate with a passion for b
 **Web Development (Learning)**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ---
@@ -65,9 +65,10 @@ I am the founder of **Dicester Studio** and a BUET graduate with a passion for b
 
 ### 📬 Connect with me
 
-[![Studio Website](https://img.shields.io/badge/Website-Dicester_Studio-blue?style=for-the-badge)](https://www.dicesterstudio.com/)  
-[![Personal Website](https://img.shields.io/badge/Portfolio-AsifAhmedAkash-9cf?style=for-the-badge&logo=vercel)](https://portfolioasifahmed.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asif_Ahmed-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asif-ahmed-akash/)  
+[![Website](https://img.shields.io/badge/Website-Dicester_Studio-blue?style=for-the-badge)](https://www.dicesterstudio.com/) 
+[![Personal Website](https://img.shields.io/badge/Portfolio-AsifAhmedAkash-9cf?style=for-the-badge&logo=vercel)](https://portfolioasifahmed.vercel.app/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asif_Ahmed-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asif-ahmed-akash/) 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:asifahmedakash32@gmail.com)
+
 
 ---
