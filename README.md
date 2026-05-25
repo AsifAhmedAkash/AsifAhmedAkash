@@ -16,21 +16,24 @@ I am the founder of **Dicester Studio** and a BUET graduate with a passion for b
 
 ### 🛠 Tech Stack
 
-**Game Dev & Graphics**
+**Game Dev & Graphics**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
 ![Unity](https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white) 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unreal-engine&logoColor=white) 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
-**AI & Data Science**
+**AI & Data Science**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**Web Development (Learning)**
+**Web Development (Learning)**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ---
 
@@ -38,6 +41,8 @@ I am the founder of **Dicester Studio** and a BUET graduate with a passion for b
 
 | Project | Description | Platform |
 | :--- | :--- | :--- |
+| **[Ideavault](https://ideavault-one-mu.vercel.app/)** | Idea sharing platform with social interactivity. | Web |
+| **[Suncart](https://suncart-summer-e-commerce-site.vercel.app/home)** | Digital marketplace site where users can sell their stuff. | Web |
 | **[Twisted Citadel](https://dicesterstudio.itch.io/twisted-citadel)** | Pixel-art puzzle adventure. | Itch.io |
 | **[Zone Sentinels](https://www.dicesterstudio.com/zone-sentinels-return-to-docking-zone/)** | Vertical space mining exploration. | Web/Mobile |
 | **[Bounce & Spikes Curse](https://play.google.com/store/apps/details?id=com.DicesterStudio.BounceandSpikesCurse)** | Challenging 2D platformer. | Google Play |
@@ -53,16 +58,16 @@ I am the founder of **Dicester Studio** and a BUET graduate with a passion for b
 
 ---
 
-### 🖼 Game Portfolio
+### 🖼 Snaps from my recent projects
 ![game projects](https://github.com/user-attachments/assets/1a0a8c24-a3e0-4c37-bcc3-f6fad195ec82)
-
 
 ---
 
 ### 📬 Connect with me
 
-[![Website](https://img.shields.io/badge/Website-Dicester_Studio-blue?style=for-the-badge)](https://www.dicesterstudio.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asif_Ahmed-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asif-ahmed-akash/)
+[![Studio Website](https://img.shields.io/badge/Website-Dicester_Studio-blue?style=for-the-badge)](https://www.dicesterstudio.com/)  
+[![Personal Website](https://img.shields.io/badge/Portfolio-AsifAhmedAkash-9cf?style=for-the-badge&logo=vercel)](https://portfolioasifahmed.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asif_Ahmed-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asif-ahmed-akash/)  
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:asifahmedakash32@gmail.com)
 
 ---
